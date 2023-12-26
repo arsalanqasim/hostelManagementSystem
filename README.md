@@ -13,8 +13,9 @@ The Hostel Management System is a comprehensive Java-based application designed 
 
 ## Installation
 1. Clone the repository to your local machine using the following command:
-2. Open the project in your preferred Java IDE.
-3. Compile and run the 'login.java' file to start the application.
+2.  git clone <repository_url>
+3. Open the project in your preferred Java IDE.
+4. Compile and run the 'login.java' file to start the application.
 
 ## Usage
 Upon launching the application, users will be prompted to log in with their credentials. The functionalities and user interfaces differ based on the role assigned to the logged-in user.
