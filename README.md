@@ -56,7 +56,8 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Credits
 The Hostel Management System project was made possible thanks to the hard work and dedication of the following individuals:
-- [Insert contributor names here]
+- [Arsalan Qasim]
+- [Waqas Zafar]
 
 ## License
 This project is licensed under the MIT License. See the LICENSE.md file for more details.
