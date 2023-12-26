@@ -12,10 +12,26 @@ The Hostel Management System is a comprehensive Java-based application designed 
 - Reporting and analytics for managers.
 
 ## Installation
-1. Clone the repository to your local machine using the following command:
-2.  git clone <repository_url>
-3. Open the project in your preferred Java IDE.
-4. Compile and run the 'login.java' file to start the application.
+1. Copy the repository to your local machine by running the command:
+
+    ```bash
+    git clone https://github.com/arsalanqasim/hostelManagementSystem.git
+    ```
+    
+    or
+    
+    ```bash
+    git clone git@github.com:arsalanqasim/hostelManagementSystem.git
+    ```
+    
+    or
+    
+    ```bash
+    gh repo clone arsalanqasim/hostelManagementSystem
+    ```
+
+2. Open the project in your preferred Java IDE.
+3. Compile and run the 'login.java' file to start the application.
 
 ## Usage
 Upon launching the application, users will be prompted to log in with their credentials. The functionalities and user interfaces differ based on the role assigned to the logged-in user.
